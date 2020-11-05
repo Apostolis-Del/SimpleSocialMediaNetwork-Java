@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=compname
+comment0.target=Company(java.lang.String)
+comment1.params=kappa
+comment1.target=void\ addEmployee(Employee)
+comment2.params=
+comment2.target=int\ payment()
+numComments=3

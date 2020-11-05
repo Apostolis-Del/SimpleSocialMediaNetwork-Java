@@ -1,0 +1,6 @@
+del,tso,anna,
+tso,swtos,del,thomas
+swtos,thomas,tso,del,
+thomas,tso,swtos
+takis,
+anna,takis,

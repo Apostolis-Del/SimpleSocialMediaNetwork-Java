@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Wall
+comment1.params=
+comment1.target=Wall()
+comment2.params=name
+comment2.target=Wall(java.lang.String)
+comment3.params=user1\ context
+comment3.target=void\ WriteToWall(java.lang.String,\ java.lang.String)
+comment4.params=user1\ context
+comment4.target=void\ Addlikes(java.lang.String,\ java.lang.String)
+comment5.params=user1\ context
+comment5.target=void\ WriteToFriendsWall(java.lang.String,\ java.lang.String)
+numComments=6

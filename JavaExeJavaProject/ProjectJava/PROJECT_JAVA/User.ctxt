@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=User
+comment1.params=
+comment1.target=int\ hashCode()
+comment10.params=user1\ user2
+comment10.target=void\ DeleteFriend(java.lang.String,\ java.lang.String)
+comment11.params=
+comment11.target=java.lang.String\ getName()
+comment12.params=newname
+comment12.target=void\ setName(java.lang.String)
+comment2.params=k
+comment2.target=void\ User(java.lang.String)
+comment3.params=name
+comment3.target=void\ UserList(java.lang.String)
+comment4.params=name
+comment4.target=void\ Userminusfriend(java.lang.String)
+comment5.params=
+comment5.target=java.util.List\ getList()
+comment6.params=name
+comment6.target=void\ FriendListprint(java.lang.String)
+comment7.params=name
+comment7.target=void\ FriendList(java.lang.String)
+comment8.params=user1\ user2
+comment8.target=boolean\ Friends(java.lang.String,\ java.lang.String)
+comment9.params=user1\ context
+comment9.target=void\ FriendAdd(java.lang.String,\ java.lang.String)
+numComments=13
